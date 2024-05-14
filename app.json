@@ -16,13 +16,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.mogeni.app-writer"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mogeni.app-writer"
     },
     "web": {
       "favicon": "./assets/favicon.png"
